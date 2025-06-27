@@ -1,4 +1,3 @@
-//SARE EKEN 22100022016 ALGORİTMALAR ÖDEV2
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
